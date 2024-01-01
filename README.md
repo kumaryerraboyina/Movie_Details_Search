@@ -35,3 +35,17 @@ movie-website/
 |-- package.json
 |-- README.md
 
+How to Use
+Home Page:
+
+Upon visiting the site, users will see a welcome message and instructions to use the search box.
+Enter a movie name in the search box to get a list of movies.
+Movie Details:
+
+Click on a movie title to view detailed information about the selected movie, including the poster, release date, rating, and overview.
+Watchlist:
+
+Users can log in to add movies to their watchlist for later viewing.
+User Authentication:
+
+The application supports user authentication. Users can log in using their credentials.
